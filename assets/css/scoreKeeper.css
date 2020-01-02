@@ -1,0 +1,43 @@
+body {
+  background: linear-gradient(-90deg, #cd7791, #73549c);
+  font-family: "Oswald", sans-serif;
+  font-size: x-large;
+}
+
+#wrapper {
+  text-align: center;
+
+  padding-top: 250px;
+}
+
+input {
+  width: 30%;
+  padding: 10px 10px;
+  margin: 8px 8px;
+  box-sizing: border-box;
+  font-size: xx-large;
+  text-align: center;
+  border-radius: 10px;
+}
+
+#p1 {
+  border: 2px solid black;
+  border-radius: 5px;
+  background-color: lime;
+  padding: 5px 10px 5px 10px;
+  font-weight: 600;
+}
+#p2 {
+  border: 2px solid black;
+  border-radius: 5px;
+  background-color: #1d8df0;
+  padding: 5px 10px 5px 10px;
+  font-weight: 600;
+}
+#reset {
+  border: 2px solid black;
+  border-radius: 5px;
+  background-color: rgba(250, 6, 27, 0.8);
+  padding: 5px 10px 5px 10px;
+  font-weight: 600;
+}
